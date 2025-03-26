@@ -1,0 +1,20 @@
+<?php
+
+use yii\helpers\Html;
+
+/** @var yii\web\View $this */
+/** @var app\models\Tblprogramtype $model */
+
+$this->title = Yii::t('app', 'Create Tblprogramtype');
+$this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Tblprogramtypes'), 'url' => ['index']];
+$this->params['breadcrumbs'][] = $this->title;
+?>
+<div class="tblprogramtype-create">
+
+    <h1><?= Html::encode($this->title) ?></h1>
+
+    <?= $this->render('_form', [
+        'model' => $model,
+    ]) ?>
+
+</div>

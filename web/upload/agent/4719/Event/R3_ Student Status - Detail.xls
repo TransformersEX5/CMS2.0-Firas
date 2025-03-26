@@ -1,0 +1,2665 @@
+<table width="1099" border="solid" style="border-style:solid; border-width:thin;">
+  <tr>
+    <td colspan="13" align="center">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#A5A1A0">
+    <td colspan="13" width="850" align="center" bgcolor="#CCCCCC"><strong>R3: Student Status - Detail</strong></td>
+  </tr>
+  <tr >
+    <td colspan="13" align="center">&nbsp;</td>
+  </tr>
+</table><br>
+<table width="1109" border="solid" style="border-style:solid; border-width:thin;">
+  <tr bgcolor="#A5A1A0">
+		<td width="20" align="center"><b>Noq</b></td>
+        <td width="62" align="center"><b>Student Id</b></td>
+		<td width="99" align="center"><b>NIRCPassport</b></td>
+		<td width="68" align="center"><b>Name</b></td>
+  		<td width="68" align="center"><b>NationalityName</b></td>
+        
+		<td width="58" align="center"><b>Course</b></td>
+		<td width="79" align="center"><b>IntakeCode</b></td>
+		<td width="55" align="center"><b>Status</b></td>
+        <td width="55" align="center"><b>Status Date</b></td>
+		<td width="129" align="center"><b>Current Term/Semester</b></td>
+        <td width="63" align="center"><b>Hostel Outs</b></td>
+		<td width="84" align="center"><b>Academic Outs</b></td>
+        <td width="63" align="center"><b>Mobile No</b></td>
+        <td width="65" align="center"><b>Address</b></td>
+        <td width="56" align="center"><b>Email</b></td>
+        <td width="70" align="center"><b>Sponsor</b></td>
+        <td width="84" align="center"><b>CGPA (Academic Progress)</b></td>
+        <td width="84" align="center"><b>CGPA (Academic Transcript)</b></td>
+        <td width="84" align="center"><b>Visa End Date</b></td>
+         <td width="72" align="center"><b>Remark</b></td>
+        <td width="72" align="center"><b>FullName</b></td>
+         
+  </tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>1</b></td>
+        <td width="62" bgcolor="#FFFFFF">201306030256</td>
+		<td width="99" bgcolor="#FFFFFF">951006126207</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABDUL GAFUR BIN ASMADUL</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201605</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">12-05-2016</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem12</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">16494.80</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">011-29805342
+0145571707
+ 0143747784
+ 
+ 0145571707</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KG DASAR BARU , JLN TENGAH NIPAH , LAHAD DATU , 91118 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">gafurbeatles2@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.3899999856948853</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">NIK AHMAD FITRI BIN NIK AZMAN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>2</b></td>
+        <td width="62" bgcolor="#FFFFFF">201809020014</td>
+		<td width="99" bgcolor="#FFFFFF">000122020115</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">DANIAL HAQIM BIN FAIZUL AMIN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">26-02-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem8</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">-0.49</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">8305.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0135038105
+
+ 0175678175
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 165 , KAMPUNG PERMATANG , SERI MANJUNG , 32040 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">micropolice54321@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0299999713897705</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>3</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101040045</td>
+		<td width="99" bgcolor="#FFFFFF">A21796222</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABDELGHANY MOHAMED HANY IBRAHIM MOHAMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-01-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">38939.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01136116178
+01136116178
+ 55632147
+ 236685
+ 01136116178</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Cheras taman Counnght Seri cendkia condo B _13 _6 ,  ,  Kuala Lumpur , 53000 , Wilayah Persekutuan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">tigerhany6@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.090000033378601</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">01-10-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Status changed to active 15 Jan 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">NUHA MAHBOAB MAHMOOD MOHAMED #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>4</b></td>
+        <td width="62" bgcolor="#FFFFFF">202009020012</td>
+		<td width="99" bgcolor="#FFFFFF">020324120067</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHD ARIF BIN MAHAT</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202109</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">17-09-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">255.25</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-21371.49</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01126054544
+
+ 0136447424
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">JLN KEBUN LAMA KAMPUNG NAGAPAS ,  , PAPAR , 89600 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">arifmahat01@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">BIASISWA KERAJAAN NEGERI SABAH</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.200000047683716</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>5</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040009</td>
+		<td width="99" bgcolor="#FFFFFF">000328130117</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MUHAMMAD FAEZ BIN YUSSOF</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">02-01-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">512.95</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">22370.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01125138757
+
+ 014-5843589
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 7, KAMPUNG DAGANG BEKENU ,  , MIRI , 98150 , Sarawak</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">faezyussof@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.809999942779541</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANUAR BIN DIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>6</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040026</td>
+		<td width="99" bgcolor="#FFFFFF">010208130402</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">EVANGELINA LAHAI YAHUDA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">04-01-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">250.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9770.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01140185053
+0168777460
+ 0162897460
+ 0168777460
+ 0168777460</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO588, LORONG 10A2, TAMAN DESA WIRA JALAN BATU KAWA, ,  , KUCHING , 93250 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">yahudaeiyva@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.4100000858306885</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar
+</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">NICOLLISA NICHOLAS #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>7</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101020009</td>
+		<td width="99" bgcolor="#FFFFFF">020221140065</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">VINCENT AK KAIS</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">02-01-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">18400.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0189778105
+
+ 0173317335
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 5 JALAN PUJ 2/36  , TAMAN PUNCAK JALIL , SERI KEMBANGAN , 43300 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">vincentkais987@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.7999999523162842</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>8</b></td>
+        <td width="62" bgcolor="#FFFFFF">202104020002</td>
+		<td width="99" bgcolor="#FFFFFF">020502140256</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NUR SHAHIRA BINTI NORASMI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202206</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">25-05-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">20375.10</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01169934236
+0391744434
+ 0136240914
+ 
+ 0391744434</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">BLOK 94-12-08,FLAT SRI KOTA  , BANDAR TUN RAZAK , CHERAS , 56000 , Wilayah Persekutuan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">nrshahira020502@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.2000000476837158</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">BEC Intake 202206</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>9</b></td>
+        <td width="62" bgcolor="#FFFFFF">202207040007</td>
+		<td width="99" bgcolor="#FFFFFF">990413105501</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NG WEI YAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202207</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">06-07-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">8750.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0186619012
+
+ 0123970006
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">49, Jalan Wawasan 413, , Pusat Bandar Puchong, , Puchong , 47160 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ngweiyan321@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.3299999237060547</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202207 from diploma</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">MUHAMMAD HAIQAL BIN ABDUL RASHID</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>10</b></td>
+        <td width="62" bgcolor="#FFFFFF">202211040002</td>
+		<td width="99" bgcolor="#FFFFFF">021024120932</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NUR SYAZWANA BINTI RHAZEN SHAHAR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202211</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">24-11-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">260.41</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">20960.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01136917044
+
+ 01126560206
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KG. SHARIF, JALAN SILAM , LAHAD DATU, SABAH , LAHAD DATU , 91100 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">syazwananur06@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.3299999237060547</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for mini intake November2022</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">MOHD AZHAR AMIRUL BIN MOHD ERWAN</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>11</b></td>
+        <td width="62" bgcolor="#FFFFFF">202211040022</td>
+		<td width="99" bgcolor="#FFFFFF">011104120626</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">BRIDGITTE JAMES</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202211</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">25-11-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">251.06</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9234.90</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">018 8709340
+018 8709 340
+ 01111891200
+ 
+ 018 8709 340</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 9, TAMAN MALAKUN, JLN RAMAYAH TERAWI ,  , KOTA KINABALU , 88300 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">bridgittej11@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.140000104904175</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active on november, class is on 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">DAYANG NUR FAHZERAH AZEE BINTI AG MAHMUN</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>12</b></td>
+        <td width="62" bgcolor="#FFFFFF">202107020021</td>
+		<td width="99" bgcolor="#FFFFFF">030410121639</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMMAD SHAMRIEN BIN ABDUL BAKIR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">16-12-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">2680.75</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-10348.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0123840410
+0128430577
+ 01136366969
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 19 LORONG GERUNGGA TMN SEMPELANG  , SEMBULAN , KOTA KINABALU , 88100 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">shamriensna@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">BIASISWA KERAJAAN NEGERI SABAH</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.1600000858306885</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>13</b></td>
+        <td width="62" bgcolor="#FFFFFF">202306010001</td>
+		<td width="99" bgcolor="#FFFFFF">010402101998</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NURLIANA AQILLA BINTI SAIFUL BAHARI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202306</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-05-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">1560.49</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">300.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0172875489
+
+ 0173720655
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">No. 6, Jalan Desiran Malawati 315, Taman Desiran Malawati ,  , Kuala Selangor , 45000 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">leeyaqilla@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1100000143051147</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved by Registration</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">MOHD ZULHAFIQ BIN MOHAMAD</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>14</b></td>
+        <td width="62" bgcolor="#FFFFFF">201901040101</td>
+		<td width="99" bgcolor="#FFFFFF">016084407</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AL GHAZAWI ALI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Syrian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201901</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">18-02-2019</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem10</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">7764.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01128509109
++881689638630
+ +881689638630
+ 
+ +881689638630</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Saudi Arabia Riyadh Alnahda street  ,  , Riyadh , 00966 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">al-si-sy@hotmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1799999475479126</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">31-05-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">FRANCIS OKOKON EFFIONG #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>15</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909040206</td>
+		<td width="99" bgcolor="#FFFFFF">R00429990</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SUBEK EDMOND DANIEL ZAKAYO</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">South Sudan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201909</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">22-11-2019</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem10</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">7544.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">03 2181 4748
+
+ mokhtar@abeereducati
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Khartoum Sudan ,  , Khartoum , 2231 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">Edmondanel@gmail.com </td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.7999999523162842</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">04-10-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>16</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909010084</td>
+		<td width="99" bgcolor="#FFFFFF">P06036181</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MAGID ABDALLA MOHAMEDKHAIR ALZABIAR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201909</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-11-2019</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem10</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">10744.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0183928801
+03 2181 4748
+ 03 2181 4748
+ 
+ 03 2181 4748</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Kharoum, Sudan ,  , Khatoum , 23321 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">majedabdallah1999@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1100000143051147</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">17-11-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active as Per Instruction by Madam Rose</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>17</b></td>
+        <td width="62" bgcolor="#FFFFFF">202001010062</td>
+		<td width="99" bgcolor="#FFFFFF">014957810</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALMOHAMAD ABDULRAHMAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Syrian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-01-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem8</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">14399.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+966530485390
++966530485390
+ 012-2757101
+ 
+ +966530485390</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SAUDI-ARABIA  ,  , RIYADH , 966 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">abdulrahmansudkii@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.049999952316284</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">13-12-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ABDIRAHMAN MOHAMED ADAN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>18</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909010011</td>
+		<td width="99" bgcolor="#FFFFFF">P00207312</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">RAKAN ABOBAKER HELMY SAKR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">21-02-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202301 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9150.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01111124291
+
+ 013-320 9753
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Kuala lumpur  ,  , KUALA LUMPUR , 63000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">rakansqor@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">04-07-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ADEEB ALKALLA #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>19</b></td>
+        <td width="62" bgcolor="#FFFFFF">202001010044</td>
+		<td width="99" bgcolor="#FFFFFF">P01377735</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">YUSUF SAHAL JAMA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Somalian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-01-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem9</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0172434277
+0172434277
+ 0172434277
+ 
+ 0172434277</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">GAROWE - SOMALIA ,  , GAROWE , 54558 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">sahaljama42@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.5999999046325684</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">25-07-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ABDIRAHMAN HUSSEIN SAHAL #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>20</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909010009</td>
+		<td width="99" bgcolor="#FFFFFF">A23309947</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ZAKI ABDELRAHMAN RASHAD MOHAMED FAWZ M</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">09-01-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem9</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">11750.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+201775939860
++201775939860
+ +201775939860
+ 
+ +201775939860</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">6 October City Giza  ,  , Cairo  , 2332 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">abdelrahmanrashad41@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.740000009536743</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">24-06-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">FRANCIS OKOKON EFFIONG #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>21</b></td>
+        <td width="62" bgcolor="#FFFFFF">202001010088</td>
+		<td width="99" bgcolor="#FFFFFF">014958019</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">IBRAHIM OSAMA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Syrian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202006</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">01-07-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem8</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15050.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0182417224
+01128199061
+ 01128199061
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">syrian ,  , syrian , 01124 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">osama1434@outlook.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.9600000381469727</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">08-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">approved by registrar </td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>22</b></td>
+        <td width="62" bgcolor="#FFFFFF">202006040012</td>
+		<td width="99" bgcolor="#FFFFFF">P00713882</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABDALLA MOHAMED ADAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Somalian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202009</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">07-10-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202106 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-1175.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0146455263
+0146455263
+ 0146455263
+ 
+ 0146455263</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Jalan 4/124, Taman connaught, , Malaysia  , KUALA LUMPUR , 56000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">abdullah.m.a2016@hotmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">16-08-2021</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved by registrar. Active on 7 Oct 2020</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">NUHA MAHBOAB MAHMOOD MOHAMED #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>23</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101040038</td>
+		<td width="99" bgcolor="#FFFFFF">A27285559</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">HAROON OSAMA AHMED ELSAYED HAMZA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-01-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">7800.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+218
++218
+ +21
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">cairo, egypt ,  , CAIRO , 12520 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">osamaharoun39@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.8200000524520874</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">11-08-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active on 20 Jan 2011</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>24</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101040095</td>
+		<td width="99" bgcolor="#FFFFFF">AB360286</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABDULMUMIN FATHI MEELAD BAKEER</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Libyan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">11-02-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">3447.20</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0112274551
+
+ Meelad Bakeer
+ Meelad Bakeer
+ 0112274551</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">A -11-2 ,Jalan Serdang Lama East Lake  ,  , Selangor  , 63000 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">techfuture37@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.3499999046325684</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">10-12-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved by registrar. Changed status to active on 11 Feb 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">KUMAR SHIVAM #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>25</b></td>
+        <td width="62" bgcolor="#FFFFFF">201801030012</td>
+		<td width="99" bgcolor="#FFFFFF">N5253375</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SIVATHAASAN SHANGIITHAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sri Lankan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">22-01-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">597.87</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+94775219841
++94775219841
+ +6582481167
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">4/12 AATHIISOODY LANE , MARUTHAMADAM , JAFFNA , 00600 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">shangiithan2207@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.490000009536743</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">16-05-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Changed status from ABR 22 Jan 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-13</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>26</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101040081</td>
+		<td width="99" bgcolor="#FFFFFF">N013778028</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALSAWADI MAHER</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Libyan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">25-01-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">14585.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0112274551
+0112274551
+ 0112274551
+ 0112274551
+ 0112274551</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">A-15-03, The Arch Menara. Cyber-11 ,  , Cyberjaya , 63000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">Alsawadymaher@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">18-05-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Changed from ABR 25 Jan 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANIT ROY #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>27</b></td>
+        <td width="62" bgcolor="#FFFFFF">202105040094</td>
+		<td width="99" bgcolor="#FFFFFF">AB356815</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALBAKUSH MOHAMED SALAH ALI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Libyan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202105</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">06-06-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">4375.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">000
+000
+ 0000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">TRIPOLI ,  , LIBYA , 000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ATQAN007@GMAIL.COM</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.4199999570846558</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">08-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Change to active status. Student complied with entry requirements for BEC</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">MOHAMED W S ELRUEMI #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>28</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201010061</td>
+		<td width="99" bgcolor="#FFFFFF">NBE607147</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">BINTI ANZIZA AHMED ABDOU SAID</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Comores</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">28-01-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9400.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01127060346
+
+ 01127060346
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">UNIKL Bumi ,  , KUALA LUMPUR , 53100 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">bintianziza15@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.5299999713897705</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">20-03-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">LAKSURA MEHBIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>29</b></td>
+        <td width="62" bgcolor="#FFFFFF">202111010006</td>
+		<td width="99" bgcolor="#FFFFFF">AK0397188</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">HABIB ABDULREHMAN AHMED HAJI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Kenyan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">10-01-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-3346.40</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">24990468929
+
+ 01133787672
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">MOMBASA, KENYA  ,  , KENYA , 800100 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ABDULREHMANAHMED03@GMAIL.COM</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">3</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">09-11-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-08</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>30</b></td>
+        <td width="62" bgcolor="#FFFFFF">202109040033</td>
+		<td width="99" bgcolor="#FFFFFF">P06435259</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MONZIR ABDALLA MOHAMED AHMED KHALAFALLA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">14-09-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202301 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15783.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">NA
+
+ 0379491600
+ 0379491600
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KHARTOUM, JEDDAH ,  , jeddah , NA , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ginx244@outlook.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">09-11-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SITI NUR HAWA BINTI HASSAN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>31</b></td>
+        <td width="62" bgcolor="#FFFFFF">202205010062</td>
+		<td width="99" bgcolor="#FFFFFF">P06867316</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALTAYEB IDRIS ABDALLA AHMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-09-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">12500.04</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+966595117656
+
+ +60122561002
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SAUDI ARABIA ,  , RIADH , 110000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ALTAYEB.IDREES777@GMAIL.COM</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.0799999237060547</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">13-04-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">starting on 202209 semester</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>32</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301040074</td>
+		<td width="99" bgcolor="#FFFFFF">P10281642</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMED ABOBAKR MOHAMED ALI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">07-02-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01121121964
++966504662280
+ +966504662280
+ 0000
+ +966504662280</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">AL-MADINA YAL , MANOWARH , , BLOCK 30885 , AL MADINA , 42223 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mohamedabobkr1422@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.9500000476837158</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">16-03-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Intake 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-06</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>33</b></td>
+        <td width="62" bgcolor="#FFFFFF">202205010063</td>
+		<td width="99" bgcolor="#FFFFFF">P06867227</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMED OSMAN ABDELHAMID MOHAMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-09-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15500.04</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+966 59 388 714
+
+ 01123381956
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SUDAN ,  , ALNEEL , 11111 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mohmmed11727@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.4000000953674316</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">14-04-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">starting on 202209 semester</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>34</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301010074</td>
+		<td width="99" bgcolor="#FFFFFF">P07038158</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">FAIZ ALTAYEB YAHAIA ELSIDDIG</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">09-01-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01172276435
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">sudan ,  , sudan , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">fayzyhyy978@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">09-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active 202301 intake</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-06</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>35</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301010135</td>
+		<td width="99" bgcolor="#FFFFFF">08437970</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALAWLAQI MOHAMMED NASSER ALI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Yemeni</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">10-02-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+966 57 064 810
+0000
+ 000
+ 0000
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KSA ,  , SAUDI ARABIA , 0000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">xxmohammed5s@gmail.com </td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.8600000143051147</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">16-03-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Student intake 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">AMR MAHMOUD SALEM AL-SHAIBANI #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>36</b></td>
+        <td width="62" bgcolor="#FFFFFF">202304010002</td>
+		<td width="99" bgcolor="#FFFFFF">12089217</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABOBAKR MOHANAD ALI MOHAMMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Yemeni</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202306</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">04-04-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">000
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">YEMEN ,  , YEMEN , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">hnaudi68@icloud.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.4700000286102295</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">06-06-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Mini intake on March, given subjects MPU,</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-04</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>37</b></td>
+        <td width="62" bgcolor="#FFFFFF">202306010054</td>
+		<td width="99" bgcolor="#FFFFFF">A32776714</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMMED MOUSTAFA MOHAMMED ABDELGALEEL</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202306</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0149401518
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">EGYPT ,  , EGYPT , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">most.mohamed234@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0499999523162842</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">22-06-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active </td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>38</b></td>
+        <td width="62" bgcolor="#FFFFFF">202305010268</td>
+		<td width="99" bgcolor="#FFFFFF">A03904415</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">RAHMAN MD SAZZADUR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202309</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">13-07-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6000.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">8801977539372
+8801977539372
+ 8801977539372
+ 
+ 8801977539372</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">BANGLADESH ,  , BANGLADESH , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mdsazzadurrahman6@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.100000023841858</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">07-06-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Student active on July, will enter June Semester</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>39</b></td>
+        <td width="62" bgcolor="#FFFFFF">202401010001</td>
+		<td width="99" bgcolor="#FFFFFF">015487827</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALDABAL ALHASAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Syrian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">1800.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">011-40096246
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SYRIAN ,  , SYRIAN , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">h.sami99@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0499999523162842</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">27-06-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>40</b></td>
+        <td width="62" bgcolor="#FFFFFF">202308010010</td>
+		<td width="99" bgcolor="#FFFFFF">P00960326</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AMIN ABDIKAMAL ABDINAIM</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Somalian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-12-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF"> +254729445852
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SOMALIA ,  , SOMALIA , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">Kamaludinky107@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">01-08-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for 202401 intake</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-07</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>41</b></td>
+        <td width="62" bgcolor="#FFFFFF">202205020018</td>
+		<td width="99" bgcolor="#FFFFFF">P01075465</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ABDI MARUF AHMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Somalian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEC-CT11-FD</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202305</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">02-07-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-25.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+252 61 7889863
+
+ +256 771 685505
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">G 12, M a d i i n a, D a g m a d a 5, ,  , Mogadishu , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">macruufaxmedc@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.7400000095367432</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">29-08-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active on July</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-07</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>42</b></td>
+        <td width="62" bgcolor="#FFFFFF">201901040092</td>
+		<td width="99" bgcolor="#FFFFFF">960504105243</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">DARVINKUMAR A/L KUMARAN </td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201901</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">24-01-2019</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem11</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">12275.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0123398597
+0123398597
+ 0123398597
+ 
+ 0123398597</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">15, JALAN PERDANA 4/4B , TAMAN PUCHONG PERDANA ,  , PUCHONG  , 47150 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">dk.darvin.kumar@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1100000143051147</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">JENNIE A/P ANTONISAMY #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>43</b></td>
+        <td width="62" bgcolor="#FFFFFF">201805020007</td>
+		<td width="99" bgcolor="#FFFFFF">001125011008</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SIVA SATHI A/P MAGENDRAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">07-01-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem9</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">21175.20</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">016-5038789
+
+ 017-4782923
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 19 JALAN SAMSON  , TAMAN MERDEKA , IPOH , 30100 , Perak</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">shakthijay2025@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0700000524520874</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>44</b></td>
+        <td width="62" bgcolor="#FFFFFF">202101040057</td>
+		<td width="99" bgcolor="#FFFFFF">001012150087</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHD AINUL HAYAT BIN JUNAIDI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202101</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">19-01-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-25503.10</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">013-8918355
+
+ 013-8515355
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">BTN 0330A, SIMPANG NO 9 , KG SG BUTON, JALAN BEBULOH  , LABUAN , 87008 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mohdainulhayat@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.450000047683716</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Changed status from ABR on 19 Jan 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANUAR BIN DIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>45</b></td>
+        <td width="62" bgcolor="#FFFFFF">202003020008</td>
+		<td width="99" bgcolor="#FFFFFF">010605100899</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">JAYDEN ADAM BIN MAHMUD</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202105</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">01-06-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">21500.20</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0164206802
+0164206802
+ 0164466802
+ 
+ 0164206802</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">HOUSE 32, LORONG IRAMANIS 7 ,  , KOTA KINABALU , 88450 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">jaydenadam5601@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active student 1 June 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>46</b></td>
+        <td width="62" bgcolor="#FFFFFF">202005020018</td>
+		<td width="99" bgcolor="#FFFFFF">021119120820</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SYAHIRAH SUHAIDAH BINTI SARIPUDIN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202105</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">01-06-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-5316.60</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">013-8967673
+0198174017
+ 0198174017
+ 
+ 0198174017</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">BLOCK246, LOT A 155 FASA 5B , TAMAN MAWAR , SANDAKAN , 90000 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">suhaidahsyahirah@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.5999999046325684</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active student 1 June 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">REGISTRY STAFF</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>47</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040005</td>
+		<td width="99" bgcolor="#FFFFFF">011221120705</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">J. KLEMEN BIN JENIS</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">08-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">1339.30</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-26752.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0128948044
+
+ 01131816186
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KG KELANGSAT  ,  , SIPITANG , 89850 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">jklemen16@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.5</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar 8/10/21 (WA GP AYU)</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANUAR BIN DIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>48</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040003</td>
+		<td width="99" bgcolor="#FFFFFF">010630150089</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AHMAD ASHAARI BIN ANDARI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">08-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">512.14</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-21020.61</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01125381404
+
+ 0128037616
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KAMPUNG BANGAT JLN MOHD SALLEH  , SIMPANG 20  , LABUAN , 87000 , Labuan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ahmadashaari3006@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0.9700000286102295</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar 8/10/21 (WA GP AYU)</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANUAR BIN DIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>49</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040004</td>
+		<td width="99" bgcolor="#FFFFFF">010902130701</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MELVIN LEE YONG KIAT</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">08-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">-0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-26402.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01118917708
+
+ 01118917708
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">TMN MUTIARA SG BEDAUN  , M51  , LABUAN , 87000 , Labuan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">myongkiat@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">MARA</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.6699999570846558</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar 8/10/21 (WA GP AYU)</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ANUAR BIN DIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>50</b></td>
+        <td width="62" bgcolor="#FFFFFF">202204040007</td>
+		<td width="99" bgcolor="#FFFFFF">010420120295</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MUHAMMAD DANIAL QUZHAIMIE</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202204</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">04-04-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">1656.52</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">4590.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01125238848
+01125238848
+ 0128267751
+ 
+ 01125238848</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">LOT 16 KAMPUNG SUANGON KINARUT ,  , PAPAR , 89000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">danialquzhaimie20@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">BIASISWA KERAJAAN NEGERI SABAH</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.649999976158142</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Mini intake 202204</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">R HENDRY BIN DUSIK #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>51</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909030001</td>
+		<td width="99" bgcolor="#FFFFFF">010315101519</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NARESH A/L MARON</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">30-12-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9055.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0169002931
+
+ 0163959245
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 11A, JALAN PJS 6/5H,  , KAMPUNG LINDUNGAN 46000 , SELANGOR , 46000 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">nareshmaron@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.2200000286102295</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202301, from diploma mech eng</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>52</b></td>
+        <td width="62" bgcolor="#FFFFFF">201607030021</td>
+		<td width="99" bgcolor="#FFFFFF">981118565703</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">JAAGDAVE SINGH BHATT A/L BHAGWANT SINGH</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202303</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-03-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">16390.20</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">011-18625786
+-
+ 012-3150324
+ 03-33242329
+ -</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 26, LORONG BATU UNJUR 3E,  , TAMAN BAYU PERDANA,  , KLANG , 41200 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">jacksingh7786@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0199999809265137</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">mini intake on 202303</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ROSLIN BIN PENJEU TAN</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>53</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301040046</td>
+		<td width="99" bgcolor="#FFFFFF">010211110218</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NOOR IZZAH ATHIRAH BINTI SHAIKH MAZRAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">28-12-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">600.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01121195393
+01121193393
+ 0196221099
+ 
+ 01121193393</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NO 77 , JALAN JATI , RAKR BUKIT SAWA , MARANG , 21400 , Terengganu</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">izhah1107@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">New program from BBMED</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">MOHD SHARIZUL BIN ABDULLAH</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>54</b></td>
+        <td width="62" bgcolor="#FFFFFF">201909040205</td>
+		<td width="99" bgcolor="#FFFFFF">P10266930</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MUHAMMED KAMAL ABDALLA YASSIN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">201909</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">10-03-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem9</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">11864.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">03 2181 4748
+03 2181 4748
+ 03 2181 4748
+ 
+ 03 2181 4748</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Khartoum, Sudan ,  , Khartoum , 88352 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">muhammedkamal85.mk@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1200000047683716</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">17-05-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">As per requested by management (Mr Hafiz Safwan, Nor Azlin , Pn. Rosnizah, Dr Helmiey ) on 04/03/2020.
+</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>55</b></td>
+        <td width="62" bgcolor="#FFFFFF">202001040148</td>
+		<td width="99" bgcolor="#FFFFFF">B00767765</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">RAJIB</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202001</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">14-02-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem9</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">12364.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">60102066777
+60102066777
+ 60102066777
+ 60102066777
+ 60102066777</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">RAGUA KAZIR CHAR , WARD NO - 03, KAJIRCHAR, MULADI , BARISAL , 1010 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mdrajibmahmud30@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.899999976158142</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">01-03-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Register first Subject</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">JAGADEESH MOHAN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>56</b></td>
+        <td width="62" bgcolor="#FFFFFF">201905010060</td>
+		<td width="99" bgcolor="#FFFFFF">08926270</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALHENDI EBRAHIM YASER EBRAHIM</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Yemeni</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202006</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">01-06-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem7</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6725.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0109833391/0173
+0109833391/0173
+ 0109833397
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">7D,4TH FLOOR, WISMA AMPANG TRIANGLEL JALAN MAMANDA 7/1 ,  , AMPANG , 68000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ebrahimalhendi19@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">02-08-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">as per requested by management</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>57</b></td>
+        <td width="62" bgcolor="#FFFFFF">201905010010</td>
+		<td width="99" bgcolor="#FFFFFF">A23537311</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMED AHMED MEDHAT ELSAYED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202006</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">01-07-2020</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem8</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">8920.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+25556761626801
++25556761626801
+ +25556761626801
+ 
+ +25556761626801</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">building 26 square - 5 Masakeu elsharaton New Cairo  ,  , Cairo  , 0020 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ahmedmedhat1234@icloud.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.5</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">01-01-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">approved by registrar</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">AHMAD FAUZI BIN YAHAYA #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>58</b></td>
+        <td width="62" bgcolor="#FFFFFF">202105040018</td>
+		<td width="99" bgcolor="#FFFFFF">A12306985</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ZAHID TASKID</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202105</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">24-05-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">900.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">NA
++8801611123248
+ 0379491600
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">8/A Dhanmondi, , Dhaka,  , Bangladesh , NA , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">taskid11@yahoo.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.140000104904175</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">06-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Changed from ABR status 24 May 2021</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">LAKSURA MEHBIN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>59</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040082</td>
+		<td width="99" bgcolor="#FFFFFF">P00283509</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALTELBANI SAMER MOHSEN ABDULFATTAH</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Egyptian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">15-02-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">2589.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">601125054449
+
+ 601125054449
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">EGYPT ,  , QHAIRO , 00000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">saltelbani44@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.190000057220459</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">25-10-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">mini intake 202202</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">ABDIRAHMAN MOHAMED ADAN #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>60</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040001</td>
+		<td width="99" bgcolor="#FFFFFF">EF0037918</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NAWAF</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">07-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202306 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">8150.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">007
+008
+ 0060
+ 
+ 008</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">DHAKA, BANGLADISH ,  , DHAKA , 22232 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">nawafr270@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.5199999809265137</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">06-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar 7/10/21</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>61</b></td>
+        <td width="62" bgcolor="#FFFFFF">202201040002</td>
+		<td width="99" bgcolor="#FFFFFF">4469421</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">ALSAFADI LOAI I S</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Palestinian </td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202201</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">08-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem6</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">17771.43</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">00
+00
+ 000
+ 000
+ 00</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Ramallah ,  , palestinian , 00 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">loayes02@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.1100000143051147</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">18-05-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar 8/10/21 (WA GP AYU)</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-06</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>62</b></td>
+        <td width="62" bgcolor="#FFFFFF">202211010036</td>
+		<td width="99" bgcolor="#FFFFFF">A03959730</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">IBRAHIM DAUD</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">27-10-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+8801709-073841
++8801711383528
+ +8801711383528
+ +8801711383528
+ +8801711383528</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SHAFIPUR, KALIAKAIR,  ,  , GAZIPUR , 1751 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ibrahimdaud541@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.5799999237060547</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">21-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">mini intake 202210</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>63</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301040004</td>
+		<td width="99" bgcolor="#FFFFFF">R00576369</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">GANJOWK JOHN CHOL DAK</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">South Sudan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">16-12-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">4242.85</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+60173769716
+
+ +211912367835
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">HAI, MALAKAI JUBA ,  , SOUTH SUDAN , 061000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ganjowkjohnchol@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.6699999570846558</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">09-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA3 #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>64</b></td>
+        <td width="62" bgcolor="#FFFFFF">202209010035</td>
+		<td width="99" bgcolor="#FFFFFF">016036499</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MOHAMAD YAHYA HJ MOHAMAD</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Syrian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">20-09-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15800.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01525555
+
+ 0132465565
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">4th Floor, Block A, Menara U, No.8, Jalan 51A/223 , Petaling Jaya, Selango , Petaling Jaya , 46100  , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">cerfa123@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.0299999713897705</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">04-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">starting on 202209 semester</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>65</b></td>
+        <td width="62" bgcolor="#FFFFFF">202211010024</td>
+		<td width="99" bgcolor="#FFFFFF">A00642985</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AHMMED ZAKARIA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">21-10-2022</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+8801884964353
++8801812858454
+ +8801812858454
+ +8801812858454
+ +8801812858454</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">MOHAMUNI, WARD NO- 06,  , MANIKCHARI,  , KHAGRACHARI , 4460 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">ahmmedzakaria07@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.440000057220459</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">21-02-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Mini intake 202210</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>66</b></td>
+        <td width="62" bgcolor="#FFFFFF">202309010042</td>
+		<td width="99" bgcolor="#FFFFFF">P10100139</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">HASSAN MOHAMED HASSAN MOHAMED</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202309</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">26-07-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6225.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+601169905150
++601169905150
+ +601169905150
+ 
+ +601169905150</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SUDANESE ,  , SUDANESE , 5000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">hassanmoj737@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0.4300000071525574</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">30-07-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Mini intake 202306</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">AMR MAHMOUD SALEM AL-SHAIBANI #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>67</b></td>
+        <td width="62" bgcolor="#FFFFFF">202309010484</td>
+		<td width="99" bgcolor="#FFFFFF">B00014736</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">EMON RIYAD HOSSAIN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">21-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">13900.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+8801913583850
+00
+ 000
+ 000
+ 00</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">GOPCHOR ROAD 26/12, , NARAYANGANU SADAR-1400, NARAYANGA , BANGLADESH , 000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">riyademon04674@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0.949999988079071</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">12-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for 202401</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>68</b></td>
+        <td width="62" bgcolor="#FFFFFF">202401010002</td>
+		<td width="99" bgcolor="#FFFFFF">P08606443</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">BASHAIR ABDELSADDIG IBRAHIM ALBAGGARY</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">16-10-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">25.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+601111251120
++601111251120
+ +601111251120
+ 
+ +601111251120</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SUDANESE ,  , SUDANESE , 4000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">bishaabdo42@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">23-10-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for mini intake</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-05</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>69</b></td>
+        <td width="62" bgcolor="#FFFFFF">202401010082</td>
+		<td width="99" bgcolor="#FFFFFF">P06652201</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AYHAM HISHAM FATHI OSMAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Sudanese</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">19-12-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6200.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">00000
+
+ 0000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">SUDAN ,  , SUDAN , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">Leaveitforgodgoodness@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">16-12-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Student start sem 202401</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-03</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>70</b></td>
+        <td width="62" bgcolor="#FFFFFF">202401010163</td>
+		<td width="99" bgcolor="#FFFFFF">09537400</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">HASAN SAIF NABIL AHMED SAIF</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Yemeni</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">05-01-2024</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6200.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">12345876910
+12345876910
+ 12345876910
+ 
+ 12345876910</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">YEMEN ,  , YEMEN , 00000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">nigthk06@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">01-11-2023</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for Jan 2024</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-02</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>71</b></td>
+        <td width="62" bgcolor="#FFFFFF">202309010318</td>
+		<td width="99" bgcolor="#FFFFFF">I457168</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">LAHIDHEB HAMZA</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Tunisian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">14-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+21656166399
+
+ 000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">TUNISIAN ,  , TUNISIAN , 00000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">irakihamza@yahoo.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.2799999713897705</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">06-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">active on september semester</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-07</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>72</b></td>
+        <td width="62" bgcolor="#FFFFFF">202205020020</td>
+		<td width="99" bgcolor="#FFFFFF">P00997190</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">OSMAN ANAS ABDIRASHID</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Somalian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">BEME-CT11-FD</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">04-10-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-150.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01170274340
+
+ 00000
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">City University ,  , KUALA LUMPUR , 50480 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">anas912001@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.3300000429153442</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">20-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">active </td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">SA-06</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>73</b></td>
+        <td width="62" bgcolor="#FFFFFF">202205030029</td>
+		<td width="99" bgcolor="#FFFFFF">901206145343</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">YEE HAN BING</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DICE</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202205</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">31-12-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem5</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">3860.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0167121760
+
+ 0125571875
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">B-17-3A ZEFER HILL RESIDENCE , JLN PIPIT 4, BDR PUCHONG JAYA , PUCHONG , 47100 , Selangor</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">alanyhb90@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SCHOLARSHIPS(FULL - with conditions)</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.9700000286102295</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Deferred for 202309</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">PRIYA DHASHENI A/P LETCHUMANAN</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>74</b></td>
+        <td width="62" bgcolor="#FFFFFF">202309010549</td>
+		<td width="99" bgcolor="#FFFFFF">050829140239</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">WAN AMIR SYAHIR BIN WAN MOHD EFFENDI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DICE</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202309</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">23-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">6437.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0103436809
+
+ 0175005248
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">C-3A-10, JALAN TAMAN SRI SENTOSA, , TAMAN SRI SENTOSA , KUALA LUMPUR , 58000 , Wilayah Persekutuan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">wanamirsyahir@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.350000023841858</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">new student</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">FARHAN BIN MUSTAPHA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>75</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301030037</td>
+		<td width="99" bgcolor="#FFFFFF">403593829</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">KHOJAEV RAHIMJON</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Tajikistan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DICE-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">19-01-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">19034.75</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">992909992311
+992907744429
+ 00000
+ 992909992311
+ 992907744429</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">126 BORBAD FIRDAVSI ,  , TAJIK , 734000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">rahimjon.khoajev@icloud.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SCHOLARSHIPS(FULL - with conditions)</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">2.319999933242798</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">28-03-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">TSILYK OLGA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>76</b></td>
+        <td width="62" bgcolor="#FFFFFF">202211010064</td>
+		<td width="99" bgcolor="#FFFFFF">404182444</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">HAMDAMZODA IMOMMUHAMMADI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Tajikistan</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DICE-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202306</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">13-06-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202309 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+992930905555
+000
+ 000
+ 000
+ 000</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">tajikistan , hamdamou ayub , TAJIKISTAN , 000 , Tajikistan</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">imomiayub@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">29-01-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">intake 202305</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">TSILYK OLGA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>77</b></td>
+        <td width="62" bgcolor="#FFFFFF">202310010032</td>
+		<td width="99" bgcolor="#FFFFFF">A03218262</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SABUZ MOHAMMAD ABDULLAH AL MAMUN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DICE-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">05-01-2024</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-18000.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">601127139668
+
+ 601127139668
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">GOVINDAPUR, BURICHONG, VARELLA ,  , CUMILLA , 3531  , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">farabisobuz120@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">22-10-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for JAN 2024</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>78</b></td>
+        <td width="62" bgcolor="#FFFFFF">202110030002</td>
+		<td width="99" bgcolor="#FFFFFF">001016121099</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">MAICKRONIEUS BIN PEJI</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DIME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202110</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">22-10-2021</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem8</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">-494.78</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9610.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">01126141525
+
+ 0145928927
+ 
+ </td>
+        <td width="65" align="right" bgcolor="#FFFFFF">Kampung Maukab  ,  , ranau , 89300 , Sabah</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">maickpeji@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.6799999475479126</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Approved By Registrar
+</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">NICOLLISA NICHOLAS #</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>79</b></td>
+        <td width="62" bgcolor="#FFFFFF">202301030016</td>
+		<td width="99" bgcolor="#FFFFFF">041125060383</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">SRERAMM A/L SUBRAMANIAM</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Malaysian</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DIME</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202301</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">05-01-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem4</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9235.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">0167406579
+0167406579
+ 0146061941
+ 
+ 0167406579</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">R31 JALAN BENDERA BENDAHARA 3 , TAMAN MAHKOTA , MENTAKAB , 28400 , Pahang</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">crsreramm812@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">PTPTN</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.5399999618530273</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF"></td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active for 202301</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">FATIN NOOR AZIERAH BINTI MOHAMAD</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>80</b></td>
+        <td width="62" bgcolor="#FFFFFF">202304010015</td>
+		<td width="99" bgcolor="#FFFFFF">MN1224311</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AMIR MAHNOOR</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Pakistani</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DIME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202306</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">24-05-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem3</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">-15500.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">00923014718575
+0000
+ 00000
+ 0000
+ 0000</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">NEW SAMANABAD CHAH JAM  ,  , LAHORE , 54000 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">amirmahnoor800@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.9700000286102295</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">05-05-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Active 202305 intake</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">TSILYK OLGA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>81</b></td>
+        <td width="62" bgcolor="#FFFFFF">202309010336</td>
+		<td width="99" bgcolor="#FFFFFF">DB3705653</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">AMIR MUHAMMAD BILAL</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Pakistani</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DIME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">18-09-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem2</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">9752.62</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">60142355196
+000
+ 00
+ 000
+ 000</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">N  E   W  -   S  A   M  A   N  A   B   A  D   -   C  H   A  H  -     ,    B  A   Z   A   R  -    L   A  H   O  R  E , pakistan , 000 , </td>
+        <td width="56" align="right" bgcolor="#FFFFFF">bilalshahzad1100@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SELF</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">1.100000023841858</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">20-09-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">New student DIME</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">TSILYK OLGA</td>
+         
+         
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td align="center" bgcolor="#FFFFFF"><b>82</b></td>
+        <td width="62" bgcolor="#FFFFFF">202310010065</td>
+		<td width="99" bgcolor="#FFFFFF">A11294373</td>
+		<td width="68" align="center" bgcolor="#FFFFFF">NILOY MAHMUD HASAN</td>
+        		<td width="68" align="center" bgcolor="#FFFFFF">Bangladeshi</td>
+        
+        
+        
+		<td width="58" align="center" bgcolor="#FFFFFF">DIME-CT11</td>
+		<td width="79" align="center" bgcolor="#FFFFFF">202401</td>
+		<td width="55" align="center" bgcolor="#FFFFFF">Active</td>
+        <td width="55" align="center" bgcolor="#FFFFFF">19-12-2023</td>
+		<td width="129" align="center" bgcolor="#FFFFFF">202401 / Sem1</td>
+		<td width="63" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="84" align="center" bgcolor="#FFFFFF">0.00</td>
+        <td width="63" align="center" bgcolor="#FFFFFF">+8801629402572
++8801629402572
+ +8801629402572
+ +8801629402572
+ +8801629402572</td>
+        <td width="65" align="right" bgcolor="#FFFFFF">KELIA, DHAMRAI-1350,  , DHAKA , Bangladesh  , 1350 , International</td>
+        <td width="56" align="right" bgcolor="#FFFFFF">mahmudlahnil@gmail.com</td>
+        <td width="70" align="center" bgcolor="#FFFFFF">SCHOLARSHIPS(FULL - with conditions)</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">0</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">23-10-2024</td>
+         <td width="72" align="center" bgcolor="#FFFFFF">Student start sem 202401</td>
+                  <td width="72" align="center" bgcolor="#FFFFFF">OSHAGHI LASHKARIANI SARA</td>
+         
+         
+	</tr>
+</table>

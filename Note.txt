@@ -1,0 +1,77 @@
+https://www.youtube.com/watch?v=N65sAZlJI20
+commit tansction
+
+===================================================
+set @prgid = '1,2,3,5';
+select *  from tblprogram 
+where FIND_IN_SET (programid ,@prgid)
+
+====================================================
+
+SELECT LPAD(1000, 5, 0);
+
+=====================================================
+
+
+https://code.tutsplus.com/tutorials/creating-pretty-popup-messages-using-sweetalert2--cms-30662
+
+
+
+Yii2 Lesson - 27 Complex Forms
+https://www.youtube.com/watch?v=j0shOAEuU-g
+
+
+Yii2 Lesson 28 - Dynamic Forms in Yii Part 1
+https://www.youtube.com/watch?v=qqFpTBr323Y
+
+
+How to make modal popup view manually without using plugin - Yii2 Framework
+https://www.youtube.com/watch?v=Asoy1ovjoM8
+
+
+
+Add Remove Input Fields Dynamically using jQuery
+https://www.codexworld.com/add-remove-input-fields-dynamically-using-jquery/
+
+
+https://www.tutorialspoint.com/yii/yii_ajax_validation.htm
+
+
+How to Fix MySQL Not Starting in Xampp
+https://www.tutsmake.com/how-to-fix-mysql-not-starting-in-xampp/
+
+How to fix MySQL not starting in XAMPP
+Follow the below given easy steps to fix/resolve MySQL server not starting in XAMPP windows. And your Mysql server will start in the xampp windows:
+
+Step 1 – Visit Xampp/mysql Directory
+Step 2 – Make Backup Directory
+Step 3 – Copy MySQL Directory Data
+Step 4 – Paste MySQL Data in Directory
+Step 5 – Copy ibdata1 Directory Data
+Step 6 – Restart MySQL Server In Xampp
+Step 1 – Visit Xampp/mysql Directory
+Navigate to your XAMPP MySQL directory (C:\xampp\mysql).
+
+Step 2 – Make Backup Directory
+Make a new folder called FIX_BACKUP.
+
+Step 3 – Copy MySQL Directory Data
+Copy C:\xampp\mysql\backup and C:\xampp\mysql\data into C:\xampp\mysql\FIX_BACKUP.
+
+Step 4 – Paste MySQL Data in Directory
+Paste the contents of C:\xampp\mysql\backup into C:\xampp\mysql\data overwriting all the files.
+
+Step 5 – Copy ibdata1 Directory Data
+Finally copy the ibdata1 file from C:\xampp\mysql\FIX_BACKUP\data into C:\xampp\mysql\data overwriting the file.
+
+Step 6 – Restart MySQL Server In Xampp
+Now restart MySQL server in xampp. So, Your MySQL server should now start in the XAMPP control panel.
+
+
+========================================================
+
+
+https://www.tutorialspoint.com/yii/yii_query_builder.htm
+
+
+https://hotexamples.com/examples/yii.web/UploadedFile/getInstance/php-uploadedfile-getinstance-method-examples.html
